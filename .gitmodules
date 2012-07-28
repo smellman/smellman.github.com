@@ -1,0 +1,3 @@
+[submodule "xulapp.github.com"]
+	path = xulapp.github.com
+	url = git@github.com:smellman/xulapp.github.com.git
